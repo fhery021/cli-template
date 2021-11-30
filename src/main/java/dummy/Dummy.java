@@ -2,6 +2,7 @@ package dummy;
 
 public class Dummy {
 
+    private String unused;
     private Dummy() {
     }
 
