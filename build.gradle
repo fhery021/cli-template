@@ -26,6 +26,7 @@ test {
 
 apply plugin : "java"
 
+// TODO overwrite with the new sonar.projectKey and sonar.organization
 sonarqube {
     properties {
         property "sonar.projectKey", "fhery021_cli-template"

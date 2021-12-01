@@ -10,6 +10,8 @@ This is a template project for Java CLI projects.
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=fhery021_cli-template&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=fhery021_cli-template)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fhery021_cli-template&metric=bugs)](https://sonarcloud.io/summary/new_code?id=fhery021_cli-template)
 
+You need to correct the links for these badges if create a new project from this template.
+
 # KataLeanOn 
 This repository contains Katas and their solutions in Java.
 
